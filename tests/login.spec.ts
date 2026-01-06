@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+// Test for login functionality on demoblaze.com
 
 let username = "testpolo";
 let password =  "123";
